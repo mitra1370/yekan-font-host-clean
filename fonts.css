@@ -1,0 +1,55 @@
+@font-face {
+    font-family: 'YekanBakh';
+    src: url('https://yekan-font-host-clean.vercel.app/fonts/YekanBakh-Thin.woff2') format('woff2');
+    font-weight: 200; /* Thin */
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'YekanBakh';
+    src: url('https://yekan-font-host-clean.vercel.app/fonts/YekanBakh-Light.woff2') format('woff2');
+    font-weight: 300; /* Light */
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'YekanBakh';
+    src: url('https://yekan-font-host-clean.vercel.app/fonts/YekanBakh-Regular.woff2') format('woff2');
+    font-weight: 400; /* Regular */
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'YekanBakh';
+    src: url('https://yekan-font-host-clean.vercel.app/fonts/YekanBakh-SemiBold.woff2') format('woff2');
+    font-weight: 600; /* SemiBold */
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'YekanBakh';
+    src: url('https://yekan-font-host-clean.vercel.app/fonts/YekanBakh-Bold.woff2') format('woff2');
+    font-weight: 700; /* Bold */
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'YekanBakh';
+    src: url('https://yekan-font-host-clean.vercel.app/fonts/YekanBakh-ExtraBold.woff2') format('woff2');
+    font-weight: 800; /* ExtraBold */
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'YekanBakh';
+    src: url('https://yekan-font-host-clean.vercel.app/fonts/YekanBakh-Black.woff2') format('woff2');
+    font-weight: 900; /* Black */
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'YekanBakh';
+    src: url('https://yekan-font-host-clean.vercel.app/fonts/YekanBakh-ExtraBlack.woff2') format('woff2');
+    font-weight: 950; /* ExtraBlack */
+    font-style: normal;
+}
